@@ -67,7 +67,7 @@ body {
   background-image:  url(MERN-logo.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 10%;
+  background-size: 30%;
   z-index: 10;
   margin-top: 1rem;
 }
